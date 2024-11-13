@@ -50,4 +50,4 @@ Despite these challenges, we were able to achieve positive results, with an accu
 | Macro avg    | 0.8137    | 0.8123  | 0.8104   | 3431    |
 | Weighted avg | 0.8172    | 0.8181  | 0.8153   | 3431    |
 
-The classification results shows consistent performance across all classes. It exhibits good accuracy, precision, recall, and F1 scores. As we can see, the “Green” class stands out with high recall (0.96) and F1 score (0.88), indicating the model’s effectiveness in identifying this class. While other classes, such as “Black” and “TTR,” show lower performance, they still demonstrate decent precision and recall values, suggesting potential areas for increasing the performance.
+The classification results shows consistent performance across all classes. It exhibits good accuracy, precision, recall, and F1 scores. As we can see, the “Green” class stands out with high recall (0.96) and F1 score (0.88), indicating the model’s effectiveness in identifying this class. While “Black” show lower performance, it still demonstrate decent precision and recall values, suggesting potential areas for increasing the performance.
