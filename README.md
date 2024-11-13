@@ -46,7 +46,7 @@ Despite these challenges, we were able to achieve positive results, with an accu
 | Blue         | 0.8312    | 0.8258  | 0.8285   | 1085    |
 | Green        | 0.8121    | 0.9574  | 0.8788   | 799     |
 | TTR          | 0.8477    | 0.8099  | 0.8283   | 852     |
-| Accuracy     |           |         | 0.8181   | 0.8181  |
+| Accuracy     | 0.8181    | 0.8181  | 0.8181   | 0.8181  |
 | Macro avg    | 0.8137    | 0.8123  | 0.8104   | 3431    |
 | Weighted avg | 0.8172    | 0.8181  | 0.8153   | 3431    |
 
