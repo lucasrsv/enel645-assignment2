@@ -1,4 +1,6 @@
 # Garbage Classification with BERT and ResNet50
+Lucas Rodrigues Valença, Matheus Marinho de Morais Leça
+ENEL 645 Assignment 2 - Fall 2024
 
 ## Overview
 
